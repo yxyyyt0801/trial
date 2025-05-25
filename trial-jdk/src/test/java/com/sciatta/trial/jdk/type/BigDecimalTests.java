@@ -1,4 +1,4 @@
-package com.sciatta.trial.jdk.number;
+package com.sciatta.trial.jdk.type;
 
 import org.junit.Test;
 
