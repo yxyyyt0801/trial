@@ -18,7 +18,7 @@ public class LongAdderTests {
         adder.add(1);
         adder.add(2);
         adder.add(3);
-        assertEquals(6, adder.sum());   // 结果非事实，最终一致
+        assertEquals(6, adder.sum());   // 结果非实时，最终一致
 
     }
 }
